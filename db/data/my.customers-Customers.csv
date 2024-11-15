@@ -1,0 +1,5 @@
+customerNumber;customerName;customerAddress;contactName;phoneNumber;email
+1;John Doe Landscaping;123 Main St, Springfield;John Doe;123-456-7890;john.doe@example.com
+2;GreenScape Solutions;456 Elm St, Shelbyville;Jane Smith;234-567-8901;jane.smith@example.com
+3;EcoLand Services;789 Oak St, Capital City;Mike Johnson;345-678-9012;mike.johnson@example.com
+4;Nature's Touch;101 Pine St, Smalltown;Emily Davis;456-789-0123;emily.davis@example.com
